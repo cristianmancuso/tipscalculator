@@ -1,0 +1,11 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculator where you can find out the tip amount you should leave depending on the total bill.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mancuso Cristian",
+  "license": "ISC"
+}
